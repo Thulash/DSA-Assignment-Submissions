@@ -10,4 +10,8 @@ DAY 2
   - Asymptotic Notations
   - Types of time complexity
 
+DAY 3
+  - Functions
+  - Class and methods
+  - Linked List
 
