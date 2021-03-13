@@ -15,3 +15,7 @@ DAY 3
   - Class and methods
   - Linked List
 
+DAY 4
+  - Linear Search Algorithm
+  - Binary Search Algorithm
+  - Uber Cab Searching Project
